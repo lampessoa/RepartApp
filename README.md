@@ -9,5 +9,5 @@ R, Shiny, Shinylive, LPSOLVE
 
 📌 Versão
 Versão de Teste
-✒️ Autores
+✒️ Autor
 Leonardo Antonio Monteiro Pessôa
